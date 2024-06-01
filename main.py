@@ -32,9 +32,7 @@ import math
 import time
 import shutil
 import pickle
-from spacy.cli import download
 
-download("en_core_web_sm")
 # Versi Library.
 print("NumPy version:", np.__version__)
 print("Pandas version:", pd.__version__)
